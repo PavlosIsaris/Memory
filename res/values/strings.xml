@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memory</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">New Game</string>
+    <string name="song_option">Choose background music</string>
+    <string name="exit_option">Exit Game</string>
+    <string name="sound_off">Sound off</string>
+    <string name="sound_on">Sound on</string>
+    
+
+    <string-array name="heights_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="widths_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="title_activity_win">WinActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

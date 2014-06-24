@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string-array name="testArray">  
+        <item>Born to be wild - Steppenwolf</item>  
+        <item>La Grange - ZZ Top</item>  
+        <item>Youth gone wild - Skid Row</item>
+        <item>Black velvet band - Dropkick Murphys</item>
+   </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/newgame"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/new_game"/>
+    
+    <item
+        android:id="@+id/songs"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/song_option"/>
+    <item
+        android:id="@+id/soundoff"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/sound_off"/>
+    <item
+        android:id="@+id/soundon"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/sound_on"/>
+
+</menu>
